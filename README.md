@@ -1,52 +1,64 @@
-# Proceso de Creación del Repositorio RetoGit
+<h1 align="center">¡Hola! 👋 Soy Roberto</h1>
 
-<img src="img/retogit_image.jpeg" alt="retogit" width="200"/>
+<p align="center">
+  💻 Desarrollador web | 🎓 Graduado en Desarrollo de Aplicaciones Web por Universidad Alfonso X El Sabio - UAX  
+  <br>
+  📍 Norte de España | 🤝 Abierto a oportunidades laborales
+</p>
 
-¡Hola a todos!
+---
 
-Recientemente creé un nuevo repositorio para un reto. Aquí está cómo lo hice:
+### 🚀 Sobre mí
 
-## Proceso de Gestión del Repositorio "retogit"
+Soy un desarrollador web con experiencia práctica en proyectos reales como:
 
-### 1. Crear un Repositorio Nuevo:
-   - Haz clic en el botón verde "New".
-   - Ingresa el nombre "retogit", selecciona "Public" y añade una descripción.
-   - Marca la casilla "Add a README file", y deja las opciones "None" tanto para `.gitignore` como para "Choose a license".
-   - Finalmente, haz clic en el botón verde "Create repository".
+- 🧾 **Sistema de reservas online** para restaurantes (TFG)
+- 🚗 **Aplicación de gestión de vehículos** para autoescuelas (archivos locales)
 
-### 2. Subir la Carpeta "src" de un Proyecto en Java:
-   - Ubica la carpeta "src" del proyecto.
-   - Dentro del repositorio "retogit", haz clic en "Add file" y selecciona "Upload files".
-   - Arrastra la carpeta "src" a la zona que dice "Drag files here to add them to your repository".
-   - En el área "Commit changes", agrega una descripción y haz clic en el botón verde "Commit changes".
+Apasionado por la automatización, los sistemas autoalojados y el desarrollo full-stack con tecnologías como PHP, MySQL, JavaScript y Docker.
 
-### 3. Crear una Nueva Rama llamada "desarrolloPersona":
-   - En la página principal del repositorio, haz clic en "main".
-   - Escribe "desarrolloPersona" en el cuadro de búsqueda.
-   - Selecciona "Create branch desarrolloPersona from main" y haz clic para crear la nueva rama.
+---
 
-### 4. Descargar el Contenido de la Rama a tu Repositorio Local:
-   - Abre GitHub Desktop y conecta tu cuenta.
-   - Selecciona el repositorio "retogit" y haz clic en "Clone".
-   - En la pestaña "GitHub.com", selecciona "retogit" y haz clic en "Clone".
-   - En "Current branch", elige la rama "desarrolloPersona".
-   - No hay cambios para descargar si las ramas no tienen diferencias.
+### 🛠️ Tecnologías y herramientas
 
-### 5. Crear una Clase Nueva y Actualizar la Rama en el Repositorio:
-   - Crea una nueva clase llamada "Biblioteca".
-   - En GitHub Desktop, haz clic en "Commit to desarrolloPersona" y luego en "Push Origin" para subir los archivos al repositorio en línea.
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-### 6. Modificar un Atributo de la Clase Nueva y Actualizar la Rama en el Repositorio:
-   - Modifica un atributo de la clase.
-   - En GitHub Desktop, haz clic en "Commit to desarrolloPersona" con la descripción adecuada y luego en "Push Origin" para subir los cambios.
+---
 
-### 7. Comprobar los Cambios:
-   - En la rama "desarrolloPersona", verás los commits con sus respectivos cambios.
+### 📂 Proyectos destacados
 
-### 8. Fusionar la Rama "desarrolloPersona" con la Rama Principal "main":
-   - Desde la rama "desarrolloPersona", haz clic en "Contribute" y selecciona "Open full request".
-   - Agrega un título y una descripción, luego haz clic en "Create pull request" y finalmente en "Merge pull request".
+#### 🧾 [Proyecto de Fin de Grado – Reservas Restaurante](https://github.com/slyder83/ProyectoFinGrado)
+Aplicación web responsive para gestionar reservas de mesas con notificaciones por correo electrónico, panel de administración y diseño adaptable a móviles.
 
-## Mi Proyecto
+- 🛠️ Tecnologías: PHP, MySQL, JavaScript, HTML, CSS
+- 📸 Incluye capturas y estructura del código
+- 📑 README detallado con funcionalidades y pruebas
 
-[retogit](https://github.com/slyder83/retogit)
+#### 🚗 [App de gestión para Autoescuelas](https://github.com/slyder83/Autoescuela)
+Aplicación de escritorio para controlar el estado de vehículos, partes de accidentes, incidencias del seguro, y más. Guarda los datos en archivos locales y se puede sincronizar mediante Dropbox u otro sistema de archivos en la nube.
+
+- 🗃️ Sin base de datos, uso de archivos JSON
+- 🔄 Compatible entre varios equipos
+- 🔐 Pensada para usarse en red local o con almacenamiento en la nube
+
+---
+
+### 📫 Contacto
+
+- 📧 Email: [rcenegar@gmail.com](mailto:rcenegar@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/rcenegar](https://www.linkedin.com/in/rcenegar)
+- 🔗 GitHub: [github.com/slyder83](https://github.com/slyder83)
+
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=slyder83&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub stats" />
+</p>
