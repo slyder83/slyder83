@@ -142,13 +142,6 @@ Aquí tienes un resumen de las tecnologías y herramientas con las que trabajo:
 
 ---
 
-## 📈 Actividad Reciente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## 🤝 ¡Hablemos!
 
 No dudes en contactarme para cualquier consulta o colaboración:
