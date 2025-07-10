@@ -18,7 +18,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-rcenegar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/slyder83">
-    <img src="https://img.shields.io/github/followers/slyder83?label=Followers&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub followers" />
+    <img src="https://img.shields.io/badge/GitHub-slyder83-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://portfolio-five-steel-52.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Web-0891B2?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -155,6 +158,9 @@ No dudes en contactarme para cualquier consulta o colaboración:
   </a>
   <a href="https://github.com/slyder83">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://portfolio-five-steel-52.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlesitekit&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
