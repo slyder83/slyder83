@@ -124,6 +124,21 @@ Aquí tienes un resumen de las tecnologías y herramientas con las que trabajo:
 - Funcionamiento sin base de datos
 - Compatible con múltiples equipos
 
+### 🎮 [Efemérides Diarias de Videojuegos](https://github.com/slyder83/efemerides-videojuegos)
+
+**Aplicación web moderna** con React y Next.js que muestra una efeméride distinta cada día relacionada con el mundo de los videojuegos.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Características principales:**
+- Consulta de efemérides relacionadas con videojuegos
+- Animación tipo terminal retro
+- Arquitectura modular con componentes reutilizables
+- Backend con base de datos para gestionar las efemérides
+
 ---
 
 ## 📊 Estadísticas de GitHub
