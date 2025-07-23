@@ -33,6 +33,7 @@ Soy un desarrollador web con experiencia en **desarrollo full-stack** y una pasi
 
 - 🧾 **Sistema de reservas online** para restaurantes (Proyecto de Fin de Grado)
 - 🚗 **Aplicación de gestión de vehículos** para autoescuelas (Aplicación de escritorio con archivos locales)
+- 🕹️ **Efemérides diarias de videojuegos** (Aplicación web con React, Next.js y Supabase)
 
 ### 🎯 Especialidades
 - **Desarrollo Web Full-Stack** con HTML, CSS, PHP, JavaScript y MySQL
